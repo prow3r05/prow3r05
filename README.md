@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello everyone! 👋
 
-**kroshmorkovkin/kroshmorkovkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ My name is Andrey, I am 12 years old, I study in the 6th grade, I like to write small programs in Delphi :) ✨ 
+repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
