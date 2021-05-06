@@ -7,4 +7,4 @@ My main language is **Russian** , additional - **English** and **German** (how d
 https://kroshmorkovkin.anport.ru/?source=github
 (**so far, the site is not working**)
 
-### ✨✨✨My favorite projects :) ✨✨✨
+### ✨✨✨My favourite projects :) ✨✨✨
