@@ -4,7 +4,7 @@
 My main language is **Russian** , additional - **English** and **German** (how did he get me...)
 
 ### My site :D
-https://kroshmorkovkin.ru/?source=github
+https://krosh-m.ml/cgi-bin/github.cgi
 (**so far, the site is not working**)
 
 ### ✨✨✨My favourite projects :) ✨✨✨
