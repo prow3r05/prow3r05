@@ -4,8 +4,8 @@
 My main language is **Russian** , additional - **English** and **German** (how did he get me...)
 
 ### My site :D
-https://krosh-m.ml/cgi-bin/github.cgi
-and my server https://morkovka.witch.quest
+https://kroshmorkovkin.ru/cgi-bin/github.cgi
+and my server https://storage.kroshmorkovkin.ru
 
 ### ✨✨✨My favourite projects :) ✨✨✨
 
