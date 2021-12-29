@@ -6,7 +6,7 @@ My main language is **Russian** , additional - **English** and **German** (how d
 ## The things I use
 
 <img src="https://img.shields.io/badge/My%20Windows-7%20Enterprise%20x64%20&%20Windows%20Vista%20Ultimate%20x64-informational?logo=windows&style=plastic">
-[(https://img.shields.io/badge/IDE-Sublime%20Text%202-blueviolet?style=plastic&logo=sublimetext)](https://sublimetext.com)
+(https://img.shields.io/badge/IDE-Sublime%20Text%202-blueviolet?style=plastic&logo=sublimetext)(https://sublimetext.com)
 
 ### My site :D
 https://kroshmorkovkin.ru/cgi-bin/github.cgi
