@@ -9,7 +9,7 @@ My main language is **Russian** , additional - **English** and **German** (how d
 
 ### My site :D
 https://kroshmorkovkin.ru/cgi-bin/github.cgi
-and my server https://storage.kroshmorkovkin.ru
+and my server https://ovh.kroshmorkovkin.ru
 
 ### ✨✨✨My favourite projects :) ✨✨✨
 
