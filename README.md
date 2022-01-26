@@ -18,4 +18,7 @@ and my server https://ovh.kroshmorkovkin.ru
 #### [Fast Wallpaper Changer](https://github.com/kroshmorkovkin/FastWallpaperChanger) - my share, created in Delphi 7 (Pascal) using WinAPI, although it only works with JPG and BMP...
 #### [BAT Cryptor](https://github.com/kroshmorkovkin/bat-cryptor) - a small batnik weighing several bytes-kilobytes, which can encrypt files by using the certification services utility, since it can work with hash and HEX bytes, while the BAT file encrypts each file with the same bytes, which makes it impossible to decrypt the files back. How do you like this? 😺
 
+### ok
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kroshmorkovkin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 The end 👍
