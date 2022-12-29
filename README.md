@@ -5,7 +5,7 @@ My main language is **Russian** , additional - **English**
 
 ## The things I use
 
-<img src="https://img.shields.io/badge/My%20Windows-7%20Enterprise%20x64-informational?logo=windows&style=plastic"> <img src="https://img.shields.io/badge/IDE-Sublime%20Text%202-black?style=plastic&logo=sublimetext"><a href="https://sublimetext.com"></img></a>
+<img src="https://img.shields.io/badge/My%20Windows-7%20Enterprise%20x64-informational?logo=windows&style=plastic"> <img src="https://img.shields.io/badge/IDE-Notepad++-black?style=plastic&logo=notepadplusplus"><a href="https://sublimetext.com"></img></a>
 
 ### My site :D
 http://milesprower.ru
