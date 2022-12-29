@@ -9,7 +9,7 @@ My main language is **Russian** , additional - **English**
 
 ### My site :D
 http://milesprower.ru
-and my server https://fs.milesprower.ru
+and my server http://fs.milesprower.ru
 
 ### ✨✨✨My favourite projects :) ✨✨✨
 
