@@ -1,6 +1,6 @@
 ### Hello everyone! 👋
 
-✨ My name is Andrey, I am 14 y.o, I study in the 8th grade, I like to write small programs in Delphi :) ✨ 
+✨ My name is Andrey, I am 15 y.o, I study in the 8th grade, I like to write small programs in Delphi :) ✨ 
 My main language is **Russian** , additional - **English**
 
 ## The things I use
